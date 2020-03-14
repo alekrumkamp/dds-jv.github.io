@@ -35,12 +35,13 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
     - [Posibles soluciones](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI): ¡Prestá atención a los diagramas UML!
 
 # Tarea
+
 - *Si creés que es necesario, [¡Repasá Objetos!](http://www.pdep.com.ar/material/apuntes/apuntes-de-la-cursada)*
+- Leé el apunte que explica las [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
 - Leé los apuntes sobre __manejo de errores__:
 	- [Diseño del manejo de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#heading=h.x500jbxzopra)
 	- [Intro a Manejo de Errores con excepciones](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)
 - Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)
-- Leé el apunte que explica las [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
 - Es importante que también empieces a familiarizarte con las herramientas para el __trabajo práctico__:
 	- Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
 	  - ¡Tratá de implementar la solución de Macowins!

@@ -44,6 +44,12 @@ Se trabajará con el ejercicio de la clase pasada: [Macowins](https://goo.gl/tSW
 - [Ejercicio "Monedero"](https://docs.google.com/document/d/1vVW91adl0p-NxGNpe8fqmC_5YmBkrxaLDFKyZ0xZb9Y/edit)
 	- [Implementación en Java](https://github.com/dds-utn/dds-monedero-java8)
 
+# Tarea
+
+- Pasar la solución de [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU) a Java (utilizando Maven).
+- Plantear una solución, y comunicarla, sobre el [siguiente ejercicio](???).
+- Leer sobre el [Patrón de Diseño - Gamma - State](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+
 # Extra
 
 - [Soluciones de Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit)
