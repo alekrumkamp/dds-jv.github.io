@@ -9,9 +9,14 @@ permalink: /bitacoras/2020/jueves-m/clase-02/
 
 Ahora que ya conocemos de que se trata la materia, comenzaremos por introducir algunos de los conceptos más importantes que nos acompañarán, por lo menos, durante el resto de la cursada. ¿Qué son las __cualidades de diseño__? ¿De qué nos sirven? ¿Los __patrones de diseño__ son importantes? ¿Qué son? Estas son algunas de las preguntas que intentaremos responder en la clase de hoy.
 
-De la clase anterior, podés ver acá las [soluciones de Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit).
+En algunas semanas, más precisamente el día sábado 6/4 a las 9:00 o a las 14:00 (pueden asistir en cualquier horario), habrá en el Laboratorio de Medrano un taller introductorio relacionado a Java, Maven y Git. La asistencia es opcional, aunque es altamente recomendado para aquellos que no manejaron éstas tecnologías previamente y necesitan un poco más de tiempo.
 
-_Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
+Es importante que lleven leído o tengan a mano lo siguiente:
+- Apunte de [Java](https://goo.gl/ioY8cc).
+- Apunte de [Maven](https://goo.gl/FAFyRe).
+- Apunte de [GIT](https://goo.gl/cwjcYB).
+
+Se trabajará con el ejercicio de la clase pasada: [Macowins](https://goo.gl/tSWzi4). Acá pueden ver las [soluciones](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit) del mismo.
 
 # Resumen
 
